@@ -1,6 +1,18 @@
 # depslib dependency file v1.0
-1603941647 source:e:\documents\codeblocksprojects\readwrite\main.c
+1604078750 source:e:\documents\codeblocksprojects\readwrite\main.c
+	<stdio.h>
+	<stdlib.h>
+	"include/internal_sort.h"
+	"include/partitions_util.h"
+
+1604070553 e:\documents\codeblocksprojects\readwrite\include\internal_sort.h
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
+
+1604345487 e:\documents\codeblocksprojects\readwrite\include\partitions_util.h
+	<time.h>
+	"file_stack.h"
+
+1604344224 e:\documents\codeblocksprojects\readwrite\include\file_stack.h
 
